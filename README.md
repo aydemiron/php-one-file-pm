@@ -102,9 +102,17 @@ admin123
 
 ## Ekran Görüntüleri
 
-| Görevler | Notlar | Arama |
-|---------|--------|-------|
-| Tree yapısında görevler, öncelik, filtre | Markdown editör + side-by-side preview | Görev & not içinde arama |
+**Şifre ile giriş**
+![Login](images/screenshot_1.png)
+
+**Görevler — Tree yapısı, öncelik ve filtre**
+![Görevler](images/screenshot_2.png)
+
+**Notlar — Markdown editör ve side-by-side önizleme**
+![Notlar](images/screenshot_3.png)
+
+**Arama — Görev & not içinde merkezi arama**
+![Arama](images/screenshot_4.png)
 
 ---
 
