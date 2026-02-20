@@ -37,6 +37,12 @@ Tek PHP dosyasından oluşan, hafif ve taşınabilir bir görev & not yönetim a
 
 ---
 
+> [!WARNING]
+> **Bu araç yalnızca yerel geliştirme ortamı için tasarlanmıştır.**
+> Production sunucusuna deploy etmeyin. Şifre koruması temel düzeydedir ve güvenlik saldırılarına karşı güçlendirilmemiştir. Sadece kendi makinenizde veya yerel ağda kullanmanız tavsiye edilir..
+
+---
+
 ## Kurulum
 
 ```bash
